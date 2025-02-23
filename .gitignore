@@ -1,0 +1,35 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.local
+*.secret
+
+# Logs & databases
+*.log
+*.sqlite3
+instance/
+
+# Dependency files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE & OS-specific files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
